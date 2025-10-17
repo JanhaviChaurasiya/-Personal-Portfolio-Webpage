@@ -2,7 +2,9 @@ Description: Designed and developed a Personal Portfolio
 Website to showcase a developer’s projects, skills, and contact 
 details. The webpage focused on aesthetic layout, 
 responsiveness, and smooth navigation. 
+
 Technologies Used: HTML, CSS, VS Code 
+
 Key Features: 
 1. Single-page layout with sections for Home, About, Skills, 
 Projects, and Contact. 
